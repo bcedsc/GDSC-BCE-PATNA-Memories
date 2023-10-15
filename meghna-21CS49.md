@@ -8,7 +8,7 @@ I'm an undergraduate student in the CSE branch at BCE patna, graduating in 2025.
 - Frameworks and libraries: React, Django, Flask, Bootstrap, Nodejs
 - Tools and platforms: Git, GitHub, VS Code, Firebase
 - Data structures and algorithms: Arrays, lists, stacks, queues, trees, graphs, sorting, searching, dynamic programming
-- Other skills: Web development, machine learning, data analysis, problem-solving, communication
+- Other skills: Web development, machine learning, problem-solving, communication
 
 ## Projects 🚀
 
