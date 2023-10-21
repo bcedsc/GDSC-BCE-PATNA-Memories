@@ -1,12 +1,12 @@
 # Hi, I'm Sandesh Kumar 👋
 
-I'm an undergraduate student in the CSE branch at IIT Dholakpur, graduating in 2025. I have a deep interest in tech stacks and I love to learn new things and explore new possibilities.
+I'm an undergraduate student in the CSE branch at BCE Patna, graduating in 2025. I have a deep interest in tech stacks and I love to learn new things and explore new possibilities. I have always been fascinated by technology and how it can solve real-world problems. I have learned various programming languages, data structures, algorithms, databases, web development, artificial intelligence, machine learning, and other topics related to computer science. I have also participated in several projects, hackathons, internships, and competitions that have helped me enhance my skills and gain practical experience.
 
 ## Skills 💻
 
 - Programming languages: Python, Java, C++, HTML, CSS, JavaScript
-- Frameworks and libraries: React, Django, Flask, Bootstrap, jQuery
-- Tools and platforms: Git, GitHub, VS Code, Firebase, Heroku
+- Frameworks and libraries: React, Django, Flask, Bootstrap
+- Tools and platforms: Git, GitHub, VS Code, Firebase
 - Data structures and algorithms: Arrays, lists, stacks, queues, trees, graphs, sorting, searching, dynamic programming
 - Other skills: Web development, machine learning, data analysis, problem-solving, communication
 
@@ -28,10 +28,12 @@ Here are some of the achievements that I am proud of:
 
 ## Contact Me 📫
 
-You can reach me at:
+My goal is to pursue a career in technology where I can apply my knowledge and skills to create innovative solutions that can benefit society. I am always eager to learn new things and explore new challenges. I am also open to collaborating with other people who share the same passion and vision as me.
+
+Thank you for reading my introduction. If you have any questions or feedback, please feel free to contact me at 
 
 - Email: xyz@gmail.com
 - LinkedIn: linkedin.com/in/abcd
-- GitHub: github.com/google
+- GitHub: github.com/I-sandesh
 
 Thank you for visiting my portfolio! 😊
